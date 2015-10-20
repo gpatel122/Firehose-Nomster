@@ -1,3 +1,5 @@
+@import url(https://fonts.googleapis.com/css?family=Poiret+One);
+
 .booyah-box {
   -webkit-box-shadow:1px 1px 2px 0 #d0d0d0;
   -moz-box-shadow:1px 1px 2px 0 #d0d0d0;
@@ -24,4 +26,12 @@ body {
   background:url('/assets/sandpaper.png');
   border-radius: 0;
   box-shadow: 0px 8px 5px #2a2a2a;
+}
+
+.navbar-inverse .navbar-brand {
+  color: #056480;
+  font-family: 'Poiret One', cursive;
+  font-weight: 600;
+  font-size: 28px;
+
 }
